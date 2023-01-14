@@ -1,0 +1,6 @@
+Name              :: pryuhfer tgt
+Departure Place   :: Patna
+Destination Place :: New Delhi
+Class             :: first
+Booking Date      :: 22/12/2022
+--------------------------------
